@@ -1,5 +1,6 @@
 # Envio de e-mail com anexo usando o PHPmailer de forma simples
-Envio de e-mail com anexo usando o PHPmailer
+Após uma longa busca por envio de e-mails com anexo de forma simples, não encontrei nenhum que funcionasse muito bem, tutoriais inclusives com o próprio PHPmailer, então resolvi baixar a biblioteca e fazer de forma simples. Estou disponibilizando o código em PHP aqui para que todos que estejam precisando desta solução possa usar também.
+
 
 Após uma longa busca por <strong>envio de e-mails com anexo de forma simples</strong>, não encontrei nenhum que funcionasse muito bem, tutoriais inclusives com o próprio <strong>PHPmailer</strong>, então resolvi baixar a biblioteca e fazer de <strong>forma simples</strong>. Estou disponibilizando o <strong>código em PHP</strong> aqui para que todos que estejam precisando desta solução possa usar também.
 
