@@ -8,7 +8,7 @@ Após uma longa busca por <strong>envio de e-mails com anexo de forma simples</s
 
 Façam bom uso.
 
-===============================================================================
+===========================================================================
 * Upload de arquivos em PDF/DOC
 * CAMPOS ADICIONADOS: Nome, E-mail, Telefone, WhatsApp, Assunto e Mensagem
 * Tamanho máximo de upload é de 5MB, porém, pode ser alterado
